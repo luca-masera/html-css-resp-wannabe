@@ -162,5 +162,13 @@ img {
         .steps{
             width: 100%;
         }
+        
+        .col-right{
+            width: 100%;
+        }
+        
+        .col-left{
+            width: 100%;
+        }
     }
     
